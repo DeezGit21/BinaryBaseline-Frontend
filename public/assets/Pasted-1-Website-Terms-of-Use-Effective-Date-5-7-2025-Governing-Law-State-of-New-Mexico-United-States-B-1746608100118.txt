@@ -1,0 +1,59 @@
+1. Website Terms of Use
+Effective Date: 5/7/2025
+Governing Law: State of New Mexico, United States
+By accessing and using the Binary Baseline website ("Site"), you agree to comply with and be bound by the following Terms of Use:
+Use of Website: You may use the Site for lawful purposes only. You agree not to use the Site in any way that could harm the service, its users, or its functionality.
+Intellectual Property: All content on this Site, including text, graphics, logos, software, and designs, is owned by or licensed to Binary Baseline LLC and protected under U.S. and international copyright laws.
+Prohibited Conduct: You may not:
+• Modify, reverse engineer, or decompile any software associated with this Site.
+• Use the Site for illegal, harmful, or abusive purposes.
+• Attempt to gain unauthorized access to any systems or data.
+Third-Party Links: The Site may contain links to external websites. We do not endorse and are not responsible for the content or practices of those sites.
+Disclaimer: The Site is provided "as-is" and without warranties of any kind. We make no guarantees regarding uptime, availability, or the results from using our services.
+Changes to Terms: We may revise these Terms of Use at any time. Continued use of the Site signifies acceptance of updated terms.
+2. Privacy Policy
+Binary Baseline respects your privacy. This policy explains how we collect, use, and protect your personal information.
+Information We Collect:
+• Personal details (e.g., name, email)
+• Technical data (e.g., IP address, browser type)
+• Usage data (e.g., pages visited, time on site)
+Use of Information:
+• To operate and maintain the Site and services
+• To respond to user inquiries and support requests
+• To improve user experience and system performance
+• To send service updates and marketing communications (only with consent)
+Cookies: We use cookies and tracking technologies to enhance user experience. You can manage cookie settings through your browser.
+Data Sharing: We do not sell your personal information. We may share data with:
+• Service providers (e.g., hosting, analytics, payment processors)
+• Legal authorities if required by law
+Data Security: We implement industry-standard security practices to protect your data. However, no online system is fully secure.
+Your Rights: You may request access, correction, or deletion of your personal data by contacting us at Binarybaseline@gmail.com.
+Updates: This Privacy Policy may be updated periodically. Continued use after changes indicates acceptance.
+3. Terms and Conditions (Service Agreement)
+These Terms and Conditions govern your use of the Binary Baseline trading automation software and related services.
+Eligibility: You must be 18 years or older to use our services.
+Account Responsibilities:
+• You are responsible for maintaining the confidentiality of your login credentials.
+• You agree to provide accurate, current, and complete information.
+Subscription & Payment:
+• Subscription fees are billed according to your selected plan.
+• All payments are processed via Stripe or another secure provider.
+• No refunds are issued unless otherwise stated in writing.
+Trading Disclaimer:
+• Binary options trading involves risk. Past performance is not indicative of future results.
+• Binary Baseline does not offer financial or investment advice.
+Termination: We reserve the right to suspend or terminate accounts for any reason, including breach of these Terms.
+Limitation of Liability: Binary Baseline LLC is not liable for any damages resulting from the use or inability to use the service, including lost profits or trading losses.
+4. Software License Agreement
+Grant of License: We grant you a limited, non-transferable, revocable license to use the Binary Baseline software for your personal or business use.
+Restrictions: You may not:
+• Copy, distribute, or resell the software
+• Reverse engineer or modify any part of the code
+• Use the software for unlawful or unethical trading
+Ownership: Binary Baseline retains all rights, title, and interest in the software and its underlying code.
+Termination: The license terminates automatically upon breach of any provision in this agreement.
+No Warranty: The software is provided "as-is" with no guarantees of performance or results.
+Liability Limitation: Under no circumstances shall Binary Baseline LLC be liable for any loss or damages arising from the use of the software.
+Contact Information: Binary Baseline LLC
+734 NM 170, Farmington, NM 87401
+Email: Binarybaseline@gmail.com

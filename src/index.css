@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 11%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 11%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 196 94% 48%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 215 25% 27%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 215 25% 27%;
+    --muted-foreground: 217.9 10.6% 64.9%;
+
+    --accent: 175 94% 48%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 25.9%;
+    --input: 214.3 31.8% 25.9%;
+    --ring: 196 94% 48%;
+
+    --sidebar-background: 222 47% 11%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-primary: 196 94% 48%;
+    --sidebar-primary-foreground: 210 40% 98%;
+    --sidebar-accent: 175 94% 48%;
+    --sidebar-accent-foreground: 210 40% 98%;
+    --sidebar-border: 214.3 31.8% 25.9%;
+    --sidebar-ring: 196 94% 48%;
+
+    --chart-1: 196 94% 48%;
+    --chart-2: 175 94% 48%;
+    --chart-3: 262 83% 58%;
+    --chart-4: 47 95% 53%;
+    --chart-5: 16 90% 58%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+.glow {
+  box-shadow: 0 0 15px rgba(34, 211, 238, 0.3);
+}
+
+.glow-text {
+  text-shadow: 0 0 10px rgba(34, 211, 238, 0.4);
+}
+
+.grid-background {
+  background-size: 30px 30px;
+  background-image: 
+    linear-gradient(to right, rgba(30, 41, 59, 0.3) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(30, 41, 59, 0.3) 1px, transparent 1px);
+  background-position: 0 0;
+}
+
+.chart-grid {
+  background-size: 30px 30px;
+  background-image: 
+    linear-gradient(to right, rgba(59, 130, 246, 0.1) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(59, 130, 246, 0.1) 1px, transparent 1px);
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-accent to-primary text-transparent bg-clip-text;
+}
+
+.tier-card {
+  transition: all 0.3s ease;
+}
+
+.tier-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(34, 211, 238, 0.2);
+}
+
+/* Stripe Pricing Table Styles */
+.stripe-pricing-table-container {
+  --stripe-color-primary: hsl(196, 94%, 48%);
+  --stripe-color-accent: hsl(175, 94%, 48%);
+  --stripe-color-background: hsl(222, 47%, 11%);
+  --stripe-color-foreground: hsl(210, 40%, 98%);
+  --stripe-color-secondary: hsl(215, 25%, 27%);
+  --stripe-color-border: hsl(214.3, 31.8%, 25.9%);
+  --stripe-color-shadow: rgba(34, 211, 238, 0.2);
+}
+
+/* Customize Stripe pricing table to match our theme */
+stripe-pricing-table {
+  border-radius: var(--radius);
+  background: var(--background);
+  color: var(--foreground);
+  font-family: inherit;
+  margin: 0 auto;
+}
+
+/* Set max width to ensure it fits on mobile */
+@media screen and (max-width: 768px) {
+  stripe-pricing-table {
+    max-width: 100%;
+  }
+}

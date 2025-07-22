@@ -1,0 +1,57 @@
+🚀 What is Binary Baseline?
+Binary Baseline is a high-performance automated trading platform built for binary options traders. It runs directly off MetaTrader 5, executing trades on Pocket Option accounts in real time — no third-party services needed.
+
+With support for multiple chart strategies, you can monitor up to 10+ MT5 charts simultaneously, each powered by Binary Baseline’s growing library of proven trading strategies. When a trade signal is triggered, a trade is instantly placed on your demo or live Pocket Option account — usually in under 2 seconds.
+
+⚙️ How It Works
+📈 Load MT5 with 1 to 10+ chart templates using Binary Baseline’s strategies
+
+🔔 Custom Alerts detect buy/sell opportunities using your chosen strategy
+
+⚡ Instant Execution places trades on Pocket Option (demo or live) within 2 seconds
+
+🧩 Manage, Tweak & Scale using your strategy dashboard
+
+🌟 Key Features
+🚀 Direct MT5 to Pocket Option Integration – No AutoSignal or 3rd party
+
+🧠 Run Multiple Charts – Scale up to 10+ MT5 charts at once
+
+🔄 Growing Strategy Library – New strategies added regularly
+
+🧪 Live & Demo Compatible – Practice or go live with confidence
+
+📱 Cross-Device Friendly – Trade from desktop or mobile
+
+📊 Real-Time Monitoring Dashboard
+
+💰 Subscription Tiers (Stripe Ready)
+
+Tier	Ideal For	Price	Features
+🧪 New Trader	Just getting started	$29/mo	100 trades/mo, 1 active chart
+⚙️ Pro Trader	Regular strategy users	$59/mo	500 trades/mo, 3 active charts
+👑 Elite Trader	Power users and pros	$99/mo	Unlimited trades, unlimited charts, VIP support, beta features
+🎁 Start with a 7-Day Free Trial – Cancel Anytime
+
+[Stripe Subscription Button Here]
+
+🧭 Why Traders Choose Binary Baseline
+✅ No Middleman Delay – Trades are placed in under 2 seconds
+
+📈 Proven Strategies – Back-tested and updated regularly
+
+🔧 Hands-Free Trading – No click-heavy setups or guesswork
+
+💼 Built for Speed & Scale – Whether you're trading 1 chart or 12, we’ve got you
+
+📸 Visual Elements to Include
+Diagram: MT5 Charts → Binary Baseline Monitor → Pocket Option
+
+Strategy showcase grid (e.g. SuperTrend, Greenline, ADX variants)
+
+Subscription tier cards with icons and toggle
+
+“How It Works” flow animation or video
+
+🛡️ Footer Legal Copy
+Binary Baseline is not a financial advisor or broker. Trading involves risk. Use at your own discretion. All subscriptions processed securely through Stripe.
